@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Imsolo8
 - 👀 I’m interested in programming on Python
 - 🌱 I’m currently learning the basics of the Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email = isakov.ilushka@gmail.com write with a subject "GitHub"
 
 
